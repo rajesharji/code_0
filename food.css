@@ -1,0 +1,40 @@
+
+nav  ul  li{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+ nav ul {
+    background-color: rgb(144, 251, 132);
+}
+nav ul{
+    display: flex;
+    color: hotpink;
+    justify-content: space-between;
+    list-style: none;
+    height: 30px;
+    font-size: 20px;
+    
+}
+a{
+    color: blue;
+}
+div{
+    
+    width: 500px;
+    font-size: 66px;
+
+}
+
+    
+
+body{
+    background-image:url(https://t4.ftcdn.net/jpg/05/36/01/95/360_F_536019542_4ole56bO04wIXMnDgMygbuCYO5scACHH.jpg);
+    background-size: cover;
+}
+img:hover{
+    transform: scale(0.8);
+}

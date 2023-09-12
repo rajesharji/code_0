@@ -1,0 +1,41 @@
+
+nav  ul  li a{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+color: blue;
+
+}
+ul{
+    background-color: rgb(144, 251, 132);
+}
+nav ul{
+    display: flex;
+    color: hotpink;
+    justify-content: space-between;
+    list-style: none;
+    height: 30px;
+    font-size: 20px;
+    
+}
+a{
+    color: blue;
+}
+div{
+   
+    width: 500px;
+    font-size: 66px;
+
+}
+.cs2{
+    display: flex;
+}
+
+
+body{
+    background-image: url(https://cdn.wallpapersafari.com/54/57/VFmTa6.png);
+    background-size: cover;
+}
+img:hover{
+    transform: scale(0.8);
+}

@@ -1,0 +1,39 @@
+div{
+   
+    width: 500px;
+    font-size: 66px;
+    margin-left: 500px;
+    border-bottom: 880px;
+
+}
+
+nav  ul  li a{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+color: blue;
+
+}
+ul{
+    background-color: rgb(144, 251, 132);
+}
+nav ul{
+    display: flex;
+    color: hotpink;
+    justify-content: space-between;
+    list-style: none;
+    height: 30px;
+    font-size: 20px;
+}
+.cs2{
+    display: flex;
+    justify-content: space-between;
+    
+}
+body{
+    background-image: url(https://www.gifimages.pics/images/quotes/english/general/gif-for-welcome-52650-131897.gif);
+    background-size: cover;
+}
+img:hover{
+    transform: scale(0.8);
+}
